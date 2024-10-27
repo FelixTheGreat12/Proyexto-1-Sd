@@ -585,6 +585,20 @@ Este proyecto es una API RESTful desarrollada con `FastAPI` para gestionar una b
     DELETE /prestamos/{prestamo_id}
     ```
 
+### Pruebas
+
+  - **Prueba al momento de crear un POST**
+
+    ![](https://github.com/FelixTheGreat12/Proyexto-1-Sd/blob/main/post.jpg)
+
+  - **Prueba al momento de crear un GET obtener resultado por ID**
+    ![](https://github.com/FelixTheGreat12/Proyexto-1-Sd/blob/main/get.jpeg)
+  - **Prueba al momento de crear un GET obtener todos los resultados**
+    ![](https://github.com/FelixTheGreat12/Proyexto-1-Sd/blob/main/getall.jpeg)
+  - **Prueba al momento de crear un PUT**
+    ![](https://github.com/FelixTheGreat12/Proyexto-1-Sd/blob/main/put.jpeg)
+  - **Prueba al momento de crear un DELETE**
+    ![](https://github.com/FelixTheGreat12/Proyexto-1-Sd/blob/main/delete.jpeg)
 
 
 
