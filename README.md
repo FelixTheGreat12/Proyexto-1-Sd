@@ -1,6 +1,15 @@
 
 # Proyecto 1
 
+## Sistemas distribuidos
+
+### Alumnos:
+
+ - Felipe Martinez Reyna
+ - Gerardo Issac Luna Rodarte
+ - Cristopher Isaí Velázquez Medina
+ - Rodrigo Emiliano Maldonado de la Cruz
+ - Rogelio Bustamante Ibarra
 
 # Biblioteca Management API
 
