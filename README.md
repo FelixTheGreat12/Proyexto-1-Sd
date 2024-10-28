@@ -49,7 +49,7 @@ Este proyecto proporciona una serie de funciones asíncronas para gestionar auto
     autor = await get_author(author_id, engine)
 
     ```
-- **Obtener un Autor por ID**
+- **Actualizar un Autor por ID**
 
     ```python
     author_id = "6476a8f2d3b9c2312b47e3e8"
