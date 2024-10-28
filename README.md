@@ -609,3 +609,14 @@ Este proyecto es una API RESTful desarrollada con `FastAPI` para gestionar una b
 - **Lectores registrados**
     ![](https://github.com/FelixTheGreat12/Proyexto-1-Sd/blob/main/mongodb3.jpeg)
 
+### Prueba en AWS
+- **Biblioteca guardado en AWS**
+![](https://github.com/FelixTheGreat12/Proyexto-1-Sd/blob/main/aws1.jpeg)
+- **Imagenes guardado en AWS**
+![](https://github.com/FelixTheGreat12/Proyexto-1-Sd/blob/main/aws2.jpeg)
+- **Libros guardado en AWS**
+![](https://github.com/FelixTheGreat12/Proyexto-1-Sd/blob/main/aws3.jpeg)
+- **Prestamo guardado en AWS**
+![](https://github.com/FelixTheGreat12/Proyexto-1-Sd/blob/main/aws4.jpeg)
+
+
