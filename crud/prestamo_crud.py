@@ -37,7 +37,14 @@ async def create_loan(
         
         libro.inventario -= 1  # Disminuir el inventario
         
-        await update_libro(libro_data=libro, libro_id=libro_id, engine=engine)
+        await update_libro(
+                           titulo=libro.titulo,
+                           autor_id=libro.autor_id,
+                           descripcion=libro.descripcion,
+                           inventario=libro.inventario, 
+                           libro_id=libro_id,
+                           engine=engine,
+                           )
         
         # Objeto préstamo
         prestamo = Prestamo(
