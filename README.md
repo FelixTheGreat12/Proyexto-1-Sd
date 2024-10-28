@@ -600,7 +600,12 @@ Este proyecto es una API RESTful desarrollada con `FastAPI` para gestionar una b
   - **Prueba al momento de crear un DELETE**
     ![](https://github.com/FelixTheGreat12/Proyexto-1-Sd/blob/main/delete.jpeg)
 
+### Prueba en MongoDB
 
-
-
+- **Autores registrados**
+    ![](https://github.com/FelixTheGreat12/Proyexto-1-Sd/blob/main/mongodb1.jpeg)
+- **Bibliotecario registrados**
+    ![](https://github.com/FelixTheGreat12/Proyexto-1-Sd/blob/main/mongodb2.jpeg)
+- **Lectores registrados**
+    ![](https://github.com/FelixTheGreat12/Proyexto-1-Sd/blob/main/mongodb3.jpeg)
 
